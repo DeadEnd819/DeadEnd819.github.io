@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b90b5e22.chunk.css",
+    "main.css": "/static/css/main.2a6b9db3.chunk.css",
     "main.js": "/static/js/main.2ee0323b.chunk.js",
     "main.js.map": "/static/js/main.2ee0323b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e94f0cff.js",
@@ -8,7 +8,7 @@
     "static/js/2.a4ccf34c.chunk.js": "/static/js/2.a4ccf34c.chunk.js",
     "static/js/2.a4ccf34c.chunk.js.map": "/static/js/2.a4ccf34c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b90b5e22.chunk.css.map": "/static/css/main.b90b5e22.chunk.css.map",
+    "static/css/main.2a6b9db3.chunk.css.map": "/static/css/main.2a6b9db3.chunk.css.map",
     "static/js/2.a4ccf34c.chunk.js.LICENSE.txt": "/static/js/2.a4ccf34c.chunk.js.LICENSE.txt",
     "static/media/avto-1-small.1bcba146.jpg": "/static/media/avto-1-small.1bcba146.jpg",
     "static/media/avto-1-small.226ee8e5.webp": "/static/media/avto-1-small.226ee8e5.webp",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.e94f0cff.js",
     "static/js/2.a4ccf34c.chunk.js",
-    "static/css/main.b90b5e22.chunk.css",
+    "static/css/main.2a6b9db3.chunk.css",
     "static/js/main.2ee0323b.chunk.js"
   ]
 }
