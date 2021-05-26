@@ -1,2 +1,0 @@
-(this["webpackJsonpliga-bank-credit"]=this["webpackJsonpliga-bank-credit"]||[]).push([[15],{64:function(e,t,a){"use strict";a.r(t);a(0);var c=a(58),n=a(1),i=a(2);t.default=function(){var e=n.q.STATE,t=n.q.OPTIONS;return Object(i.jsx)(c.c,{children:Object(i.jsx)("div",{className:"branches__map-wrapper",children:Object(i.jsx)(c.a,{defaultState:e,width:"100%",height:"100%",children:n.n.map((function(e){return Object(i.jsx)(c.b,{geometry:e,options:t},e)}))})})})}}}]);
-//# sourceMappingURL=15.abd7edb2.chunk.js.map
