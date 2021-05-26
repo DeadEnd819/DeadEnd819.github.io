@@ -8,7 +8,7 @@
     "footer.js.map": "/static/js/footer.735c53c5.chunk.js.map",
     "header.js": "/static/js/header.722ed90e.chunk.js",
     "header.js.map": "/static/js/header.722ed90e.chunk.js.map",
-    "main.css": "/static/css/main.1487baa0.chunk.css",
+    "main.css": "/static/css/main.53e62f8f.chunk.css",
     "main.js": "/static/js/main.81454f7c.chunk.js",
     "main.js.map": "/static/js/main.81454f7c.chunk.js.map",
     "promo.js": "/static/js/promo.b87660af.chunk.js",
@@ -42,7 +42,7 @@
     "index.html": "/index.html",
     "static/css/12.c1e28d34.chunk.css.map": "/static/css/12.c1e28d34.chunk.css.map",
     "static/css/8.6b560088.chunk.css.map": "/static/css/8.6b560088.chunk.css.map",
-    "static/css/main.1487baa0.chunk.css.map": "/static/css/main.1487baa0.chunk.css.map",
+    "static/css/main.53e62f8f.chunk.css.map": "/static/css/main.53e62f8f.chunk.css.map",
     "static/js/0.1dff06bc.chunk.js.LICENSE.txt": "/static/js/0.1dff06bc.chunk.js.LICENSE.txt",
     "static/js/11.c8966243.chunk.js.LICENSE.txt": "/static/js/11.c8966243.chunk.js.LICENSE.txt",
     "static/js/12.8bc7ede7.chunk.js.LICENSE.txt": "/static/js/12.8bc7ede7.chunk.js.LICENSE.txt",
@@ -70,7 +70,7 @@
     "static/js/runtime-main.9cc3f0b1.js",
     "static/css/8.6b560088.chunk.css",
     "static/js/8.17eb1850.chunk.js",
-    "static/css/main.1487baa0.chunk.css",
+    "static/css/main.53e62f8f.chunk.css",
     "static/js/main.81454f7c.chunk.js"
   ]
 }
